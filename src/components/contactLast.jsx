@@ -45,7 +45,7 @@ function ContactDetails() {
               <li><Link href='#profile'>Profile</Link></li>
     </ul> */}
     </Col>             
-</Row>gi
+</Row>
 </Container>
   );
 }
